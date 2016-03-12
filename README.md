@@ -33,9 +33,6 @@ You only Need a Browser like chrome or Firefox, or IE but lasted version preferr
 
 When feeds are loading into the web browser, the test will automatically run and give feedback on the bottom about what has been run and reported results.
 
-## Deployment
-
-I deploy this app to github platform. you can access web app through this link: http://vncling.github.io/Udacity-Map-Project/index.html
 
 ## Built With
 
