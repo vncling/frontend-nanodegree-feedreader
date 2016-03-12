@@ -3,8 +3,8 @@
 Tests were added in `jasmine/spec/feedreader.js` to test for functionality of the website.  The following tests are included:
 
 - RSS feeds are defined in `allFeeds` and are not empty.
-- Each feed in `allFeeds` has a defined and valid (simple RegExp) URL.
-- Each feed has a defined and non-blank name.
+- Each feed in `allFeeds` has a defined.
+- Each feed has a defined.
 - The navigation menu is hidden by default (on page load).
 - The nav. menu toggles visibility after clicking the menu icon.
 - The first feed has at least one entry.
